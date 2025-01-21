@@ -64,3 +64,14 @@ This will start the Parking Pixels application, where you can select video files
 - Set Region: Define the parking slots within the video frame.
 - Detect: Start the detection process to identify vacant parking spots.
 - Reset: Reset the application to select a new video or region.
+
+## Output Examples
+
+### Dashboard
+![Dashboard](output%20images/Dashboard.png)
+
+### Selecting Region
+![Selecting Region](output%20images/Selecting%20region.png)
+
+### Output
+![Output](output%20images/Output.png)
